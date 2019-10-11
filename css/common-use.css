@@ -1,0 +1,5 @@
+﻿/*验证不通过，文本框边界变红*/
+.err {
+    border: 1px solid #32bf7b !important;
+    box-shadow:0 1px 1px 1px #eee; 
+}

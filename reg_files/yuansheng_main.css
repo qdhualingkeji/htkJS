@@ -1,0 +1,12 @@
+#yuansheng_chat.yuansheng_chat {
+    /* right: 20px; */
+    right: -40px;
+    top: 25%;
+    left: auto;
+    bottom: auto;
+    width: 205px;
+    height: 64px;
+    position: fixed;
+    background: url(../img/yishubaoChat.png) no-repeat;
+    z-index: 2187483677;
+}

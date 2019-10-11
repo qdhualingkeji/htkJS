@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script type="fa465c4d66eaf89c2c4aafef-text/javascript">
+/*
+if (window.location.toString().indexOf('pref=padindex') != -1) {} else {
+		if (/AppleWebKit.*Mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))) {
+			if (window.location.href.indexOf("?mobile") < 0) {
+				try {
+					if (/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+						window.location.href = "http://m.decerp.cn/";
+					}
+				} catch (e) {}
+			}
+		}
+}
+*/
+</script>
+<meta charset="utf-8" />
+<meta name="360-site-verification" content="1ed78afe25e3625a61f10ea21b441480" />
+<meta name="keywords" content="餐饮加盟，餐饮软件加盟，餐饮软件代理，餐饮管理软件，餐饮APP，外卖APP，外卖平台加盟，扫码点餐，扫码点菜，智慧餐饮软件，无抽成外卖平台，点菜软件，餐饮业管理软件">
+<meta name="description" content="回头客餐饮综合管理系统，包含无平台抽成外卖模块，自助扫码点餐，餐饮会员管理，欢迎代理加盟回头客餐饮营销管理软件">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+<link rel="stylesheet" type="text/css" href="Content/resource/css/swiper-3.4.0.min.css" />
+<link rel="stylesheet" type="text/css" href="Content/resource/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="Content/resource/css/index.css" />
+<link rel="stylesheet" type="text/css" href="trader/css/share.css" />
+<link rel="stylesheet" type="text/css" href="trader/css/trader.css" />
+<link rel="stylesheet" type="text/css" href="productstyle/css/product.css" />
+<link rel="stylesheet" type="text/css" href="productstyle/css/news.css" />
+<link href="Content/resource/changeIconFont/iconfont.css" rel="stylesheet" />
+<link href="trader/changsvg/iconfontpro.css" rel="stylesheet" />
+<link rel="icon" type="image/png" href="img/title/title.png" />
+<title>餐饮管理系统 助力打造智慧餐厅-智慧门店软件-回头客软件</title>
+<script src="Content/resource/js/jquery.min.js" type="fa465c4d66eaf89c2c4aafef-text/javascript" charset="utf-8"></script>
+<style>
+            .container .newscontentlist h1 {
+                font-size: 32px !important;
+                text-align: center !important;
+                margin-top: 20px !important;
+                margin-bottom: 10px !important;
+                line-height: 80px !important;
+                font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", FontAwesome, sans-serif !important;
+            }
+            .container .newscontentlist{
+                font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", FontAwesome, sans-serif !important;
+            }
+            .container .newscontentlist p {
+                line-height: 30px !important;
+                font-size: 16px !important;
+                text-indent: 2em !important;
+                position:relative;
+                color: #666 !important;
+                font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", FontAwesome, sans-serif !important;
+            }
+            .container .newscontentlist p span {
+                line-height: 30px !important;
+                font-size: 18px !important;
+                font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", FontAwesome, sans-serif !important;
+            }
+            .container .newscontentlist p a span{
+                color: #31C47B !important;
+            }
+            .container .newscontentlist p img{
+                width: 100% !important;
+                display: block;
+                margin:auto;
+            }
+            .container .newscontentlist img{
+                margin-top: 20px !important;
+                font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", FontAwesome, sans-serif !important;
+            }
+        </style>
+</head>
+<body>
+
+<div class="container-fluid">
+<header class="header">
+<div class="header_nav">
+<h1 style="margin: 0;">
+	<a href="http://www.qdhualing.com/" class="logo">
+		<img src="Content/resource/img/logo.png" style="height:61px;margin-top:-10px;margin-left:-300px;">
+	</a>
+	<a href="http://htk.qdhualing.com" class="logo">
+		<img src="Content/resource/img/home.png" alt="回头客软件" title="回头客软件" class="img-responsive logo_img" />
+	</a>
+</h1>
+<ul>
+	<li class="nav_active">
+		<a href="index.html">首页
+			<div class="navbottom martbotom2" style="width: 35px;"></div>
+		</a>
+	</li>
+	<li class="nav_active active">
+		<a href="takeout.html">外卖APP
+			<div class="navbottom martbotom2" style="width: 60px;"></div>
+		</a>
+	</li>
+	<li class="nav_active">
+		<a href="order.html">扫码点餐
+			<div class="navbottom p_a martbotom2" style="width: 60px;"></div>
+		</a>
+	</li>
+	<!--
+	<li class="nav_active">
+		<a href="javascript:void(0);">会员尊享平台
+			<div class="navbottom martbotom2" style="width: 60px;"></div>
+		</a>
+	</li>
+	-->
+	<li class="nav_active">
+		<a href="agents.html">代理加盟
+			<div class="navbottom martbotom2" style="width: 60px;"></div>
+		</a>
+	</li>
+	<li class="nav_active">
+		<a href="helpCenter.html">帮助中心
+			<div class="navbottom martbotom2" style="width: 60px;"></div>
+		</a>
+	</li>
+</ul>
+<!--
+<div class="btn_a">
+	<div class="btn_div">
+		<a href="login.html" target="_blank" rel="nofollow" class="btn_1" style="background: #fff;color: #fff;border-color: #30c17c;color:#30c17b">登录<i></i></a>
+	</div>
+	<div class="btn_div">
+		<a href="register.html" target="_blank" rel="nofollow" class="btn_1 btn_2" style="background: #30c17b;color: #fff;border-color: #30c17c;color:#fff">注册<i></i></a>
+	</div>
+</div>
+-->
+</div>
+</header>
+<div class="sub-nav-bg" data-id="1">
+<div class="active_box"></div>
+</div>
+</div>
+<div class="active_box"></div>
+</div>
+<div class="sub-nav-bg" data-id="3">
+<div class="active_box"></div>
+</div>
+<div class="sub-nav-bg" data-id="5">
+<div class="active_box"></div>
+</div>
+<div class="sub-nav-bg" data-id="6"><div class="active_box"></div></div>
+</div>
+
+<div class="container-fluid">
+<div class="center">
+<div class="container-fluid">
+	<div class="product_content">
+		<div class="content_box3" style="padding-top: 10px;padding-bottom: 40px;">
+			<h5 style="font-size:20px;padding-bottom: 40px;padding-left: 550px;">
+			回头客App外卖模块，不仅仅是一款软件，更是解决了困扰餐饮店多年的营销难题！
+			</h5>
+			<img class="center-block img-responsive" alt="餐饮管理系统-线上餐厅" src="community/201810120001.png" />
+			<img class="center-block img-responsive" alt="餐饮管理系统-线上餐厅" src="community/201810120002.png" />
+			<img class="center-block img-responsive" alt="餐饮管理系统-线上餐厅" src="community/201810120003.png" />
+			<img class="center-block img-responsive" alt="餐饮管理系统-线上餐厅" src="community/201810120004.png" />
+		</div>
+	</div>
+</div>
+<script type="fa465c4d66eaf89c2c4aafef-text/javascript">
+    $('.navbottom').eq(1).addClass('displayblock');
+    $('.nav_active').eq(1).addClass('active').siblings("li").removeClass("active");
+</script>
+</div>
+</div>
+
+<div class="container-fluid">
+<footer class="footer">
+<div class="box row">
+<ul class="col-xs-2 more_list">
+<li><p>联系方式</p></li>
+<li><a href="/solution/restaurant.html">电话：0532-55588351</a></li>
+<li><a href="/solution/cosmetology.html">传真：0532-55588352</a></li>
+<li><a href="accouterments.html">邮箱：qdhualing@126.com</a></li>
+<li><a href="/solution/supermarket.html">商话1：15712773653</a></li>
+<li><a href="javascript:viod(0);">商话2：15315019919</a></li>
+<li style="width:350px;"><a href="/solution/car.html">地址：山东省黄岛区双珠路288号东方金石大厦807室</a></li>
+</ul>
+<ul class="col-xs-3 more_list" style="width:350px;margin-left:500px;">
+<li style="height: 170px; color: #81878c;">
+<div class="imgbox"><img src="Content/resource/img/ecode.jpg" class="img-responsive" />关注回头客微信公众号</div>
+</li>
+ <li style="width:350px;height: 45px;">
+<i class="icon iconfont" style="width:350px;">加盟热线：<span style="font-family: simhei;">15712773653</span></i>
+</li>
+</ul>
+</div>
+<div class="friend_nav">
+</div>
+<div class="explain">
+</div>
+</footer>
+</div>
+<div class="boradside">
+<ul class="right_box">
+<li class="right_small_box" id="zixun">
+<img src="Content/resource/img/weixin.png" class="img-responsive center-block" />
+</li>
+<li class="right_small_box" id="dianhua">
+<img src="Content/resource/img/phone_small_box.png" class="img-responsive center-block" />
+</li>
+<li class="right_small_box" id="code">
+<img src="Content/resource/img/code_small_box.png" class="img-responsive center-block" />
+</li>
+<li class="right_small_box" id="code" style="background:#30c17b;color:#fff;">
+<p style="padding-left:5px; padding-top:5px;">技&nbsp;&nbsp;&nbsp;术</p>
+<p style="padding-left:5px; padding-top:0px;">支&nbsp;&nbsp;&nbsp;持</p>
+</li>
+<li class="right_small_box" id="zhiding" style="border: none;background:rgba(0, 0, 0, 0.3)">
+<img src="Content/resource/img/zhiding.png" class="img-responsive center-block" />
+</li>
+</ul>
+<div class="left_box">
+<div class="left_small_box">
+<ul>
+	<li style="font-size: 14px;">请选择以下客服进行咨询</li>
+	<li>
+		<a href="tencent://message/?uin=1578569337&amp;Site=客服&amp;Menu=yes" style="width:150px;height:50px;line-height: 50px;margin: auto;color: #31C47B;">客服1：1578569337&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+	</li>
+	<li>
+		<a href="tencent://message/?uin=2624691289&amp;Site=客服&amp;Menu=yes" style="width:150px;height:50px;line-height: 50px;margin: auto;color: #31C47B;">客服2：2624691289&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+	</li>
+	<li>
+		<a href="tencent://message/?uin=656628150&amp;Site=客服&amp;Menu=yes" style="width:150px;height:50px;line-height: 50px;margin: auto;color: #31C47B;">客服3：656628150&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+	</li>
+</ul>
+<div class="active_block">&nbsp;</div>
+</div>
+<div class="left_small_box">
+<ul>
+<li class="list_box_small_2" style="font-size: 15px;">代理加盟咨询热线</li>
+<li class="list_box_small_2" style="font-size: 18px;color: #31C47B;"><img src="Content/resource/img/dianhua.png" />15712773653</li>
+<li style="height: 60px;">
+<p>电话咨询服务时间 </p>
+<p>周一至周日 9:00至22:00</p>
+</li>
+</ul>
+<div class="active_block">&nbsp;</div>
+</div>
+<div class="left_small_box">
+<ul class="code_img" style="margin: auto;">
+	<li style="height: 120px;">
+		<img src="Content/resource/img/ecode.jpg" style="width:96px;height:96px;margin-left:75px;" />
+		<p style="margin-left:50px;width:140px;">关注回头客微信公众号</p>
+	</li>
+</ul>
+ <div class="active_block">&nbsp;</div>
+</div>
+<div class="left_small_box">
+<ul>
+	<li style="font-size: 14px;height:50px;line-height:50px;text-align:center;">技术支持</li>
+	<li style="font-size: 14px;height:50px;line-height:50px;text-align:center;color:#31c47b;">技术支持热线：0532-55588351</li>
+	<li style="font-size: 14px;height:50px;line-height:50px;text-align:center;color:#31c47b;">售后技术支持：15315019919&nbsp;&nbsp;&nbsp;&nbsp;</li>
+	<li style="font-size: 14px;height:50px;line-height:50px;text-align:center;color:#31c47b;">开发技术支持：18765943028&nbsp;&nbsp;&nbsp;&nbsp;</li>
+</ul>
+<div class="active_block">&nbsp;</div>
+</div>
+</div>
+</div>
+<script src="Content/resource/js/swiper-3.4.0.jquery.min.js" type="fa465c4d66eaf89c2c4aafef-text/javascript" charset="utf-8"></script>
+<script src="Content/resource/js/bootstrap.min.js" type="fa465c4d66eaf89c2c4aafef-text/javascript" charset="utf-8"></script>
+<script src="Content/resource/js/javascriptindex.js" type="fa465c4d66eaf89c2c4aafef-text/javascript" charset="utf-8"></script>
+<script type="fa465c4d66eaf89c2c4aafef-text/javascript">
+        (function(){
+            var bp = document.createElement('script');
+            var curProtocol = window.location.protocol.split(':')[0];
+            if (curProtocol === 'https') {
+                bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+            }
+            else {
+                bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+            }
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(bp, s);
+        })();
+		
+		setTimeout(function(){
+			$("#nb_icon_wrap").remove();
+			$(".nb-invite-body").remove();
+			$("#newBridge").remove();
+		}, 1000);
+   </script>
+<script src="https://edge.yunjiasu.com/cdn-cgi/scripts/2448a7bd/cloudflare-static/rocket-loader.min.js" data-cf-nonce="fa465c4d66eaf89c2c4aafef-" defer=""></script>
+<script type="text/javascript">
+	var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "https://hm.baidu.com/hm.js?98b000e5695d39d08e8aab83571f347f";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	  alert(1);
+	})();
+</script>
+</body>
+</html>

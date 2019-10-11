@@ -1,0 +1,86 @@
+@charset "utf-8";
+*{margin:0;padding:0;}
+html{width: 100%;overflow: hidden;overflow-y: auto;}
+body{width: 100%;font-size: 0.24rem;background: #ededed;overflow: hidden;overflow-y: auto;}
+li{list-style-type: none;}
+a{text-decoration:none;}
+img{border: none;vertical-align: top;}
+textarea{resize: none;overflow: auto;}
+a,input,textarea,button{outline: none;}
+a{text-decoration:none;}
+a:hover,
+a:focus,
+a:active,
+a:link {
+  text-decoration: none;
+  color: #666666;
+}
+@font-face {
+	font-family:PingFang Medium;
+	src: url(font/PingFang Medium_downcc.otf);
+}
+
+@font-face {
+	font-family:PingFang Bold;
+	src: url(font/PingFang Bold.ttf);
+}
+
+@font-face {
+	font-family:PingFang Light;
+	src: url(font/PingFang Light.ttf);
+}
+
+@font-face {
+	font-family:PingFang Regular;
+	src: url(font/PingFang Regular.otf);
+}
+
+@font-face {
+	font-family:PingFang-SC-Semibold;
+	src: url(font/PingFang-SC-Semibold.ttf);
+}
+
+@font-face {
+	font-family:PingFang 简体;
+	src: url(font/PingFang 简体.ttf);
+}
+
+@font-face {
+	font-family:PingFang 简粗;
+	src: url(font/PingFang 简粗.ttf);
+}
+
+@font-face {
+	font-family:PingFang 简细;
+	src: url(font/PingFang 简细.ttf);
+}
+@font-face {
+  font-family: "iconfont";
+  src: url(../font/iconfont.svg);
+  src: url('iconfont.eot?t=1481037144#iefix') format('embedded-opentype'), url('../font/iconfont.woff?t=1481037144') format('woff'), url('../font/iconfont.ttf?t=1481037144') format('truetype'), url('../font/iconfont.svg?t=1481037144#iconfont') format('svg');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 25px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+  top: -3px;
+}
+@font-face {
+  font-family: "iconfont_2";
+  src: url(../returnfont/iconfont.svg);
+  src: url('../returnfont/iconfont.eot?t=1481041591#iefix') format('embedded-opentype'), url('../returnfont/iconfont.woff?t=1481041591') format('woff'), url('../returnfont/iconfont.ttf?t=1481041591') format('truetype'), url('../returnfont/iconfont.svg?t=1481041591#iconfont') format('svg');
+}
+.iconfont_2 {
+  display: block;
+  font-family: "iconfont_2" !important;
+  font-size: 25px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+  color: white;
+}

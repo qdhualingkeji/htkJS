@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>德客会员管理软件</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="keyword" content="德客会员管理软件">
+    <meta name="description" content="德客会员管理软件">
+    <!--总样式-->
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/common-use.css">
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="js/index.js"></script>
+    <script src="laydate/layer/layer.js"></script>
+    <script type="text/javascript" src="js/user.js?v=20180422"></script>
+    <script src="js/empty.js"></script>
+    <link rel="stylesheet" href="css/iconfont.css" />
+    <script type="text/javascript">
+        if (window.location.toString().indexOf('pref=padindex') != -1) {
+        } else {
+            if (/AppleWebKit.*Mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))) {
+                if (window.location.href.indexOf("?mobile") < 0) {
+                    try {
+                        var u = getQueryString("u") || "";
+                        var s = getQueryString("s") || "";
+                        if (/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+                            window.location.href = "reg.html?u=" + u + "&s=" + s ;   
+                        }
+                    } catch (e) { }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        .yinsizile {
+            text-align: left;
+            font-size: 12px;
+            padding-top: 6px;
+            padding-left: 20px;
+            color: #666;
+            text-indent: 2em;
+        }
+
+            .yinsizile a {
+                color: #337ab7;
+            }
+
+        .contner2 {
+            width: 1000px;
+        }
+        .bg_reibox .robox .titie2{
+            padding-top: 40px;
+        }
+        .bg_reibox .robox .nafle2 ul input{
+            height: 34px;
+            line-height: 34px;
+        }
+    </style>
+</head>
+
+<body style="background:#F5F5F5;">
+    <!---这是头部 start---->
+    <header class="refbotheader">
+        <div class="contner contner2">
+            <!--logo-->
+            <div class="logo" style="padding-top: 24px;">
+                <a href="/home/index"><img src="images/logo.jpg"></a>
+            </div>
+            <!--logo-->
+            <!--登录OR联系方式-->
+            <div class="login" style="width: 210px;">
+
+                <div class="bottom" style="padding-top: 22px;">
+                    <a href="login.html" class="anmtin anmtin2">商户登录</a>
+                    <a href="register.html" class="anmtin bgrels">免费注册</a>
+                </div>
+            </div>
+            <!--登录OR联系方式-->
+        </div>
+    </header>
+    <!---这是头部 end------>
+    <!--这是内容 start-->
+    <section class="main-box">
+        <div class="bg_reibox zhubox" style="height: 590px;">
+            <div class="contner contner2">
+                <div class="robox robox2">
+                    <div class="nafri nafri2">
+                        <!--<img src="/images/fdseqwqweeq.jpg">-->
+                        <img class="registerbg" src="images/registerbg1.png" />
+                    </div>
+                    <div class="nafle nafle2">
+                        <h2 class="titie titie2">免费注册<span id="dealerid"></span></h2>
+                        <ul>
+                            <li class="font155">
+                                <i class="iconfont posila">&#xe601;</i>	<input id="sv_ul_mobile" type="text" maxlength="11" class="tx3" placeholder="输入注册手机号" data-identity="1" />
+                            </li>
+
+
+                            <li class="font155">
+                                <i class="posila"><img src="images/infopassword.png" style="width: 22px;margin-top: 3px;"></i>
+                                <input class="tx2" type="text" name="txtVerificationCode" id="txtVerificationCode" placeholder="请输入校验码" value="">
+                                <img class="passwordimg" id="passwordimg" title="点击刷新校验码" src="/AjaxUser/ValidateCode" alt="" style="position:absolute;right:10px;top:15px;">
+                            </li>
+
+                            <li class="yanzbox">
+                                <div class="dittxit">
+                                    <input class="mittext" type="text" id="code" name="code" maxlength="6" placeholder="输入手机验证码" />
+                                    <input id="btnSendCode" class="ditbtns" type="button" style="color:#31c17b;" value="获取验证码" />
+                                </div>
+                            </li>
+                            <li>
+                                <i class="iconfont posila">&#xe603;</i>	<input id="sv_ul_loginpwd" type="password" placeholder="输入您的登录密码" class="tx4 loginpassword" data-identity="1" />
+                            </li>
+                            <li style="display:none;">
+                                <i class="iconfont posila">&#xe603;</i>	<input id="sv_ul_loginpwd2" type="password" placeholder="再次输入登录密码" class="tx4" data-identity="1" />
+                            </li>
+
+                            <li>
+                                <i class="posila"><img src="images/shopreg.png" style="width: 22px;margin-top: 3px;" /></i>	<input id="sv_us_name" type="text" class="tx1" placeholder="输入您的店铺名称" data-identity="1" />
+                            </li>
+
+                            <li style="display: none;">
+                                <i class="posila"><img src="images/dengjireg.png" style="width: 22px;margin-top: 3px;" /></i>
+                                <select name="sv_us_industrytype" id="sv_us_industrytype"></select>
+                            </li>
+
+                            <li class="font155">
+                                <i class="iconfont posila">&#xe600;</i>	<input id="sv_ul_name" type="text" class="tx2" placeholder="输入店主的姓名" data-identity="1" />
+                            </li>
+                            <li class="wty">
+                                <p><input id="chkAgreeLicense" type="checkbox" value="true" checked="checked"/>我接受并同意用户协议<a href="agreement.html" target="_blank" style="color: #337ab7;">《服务条款》 </a>和 <a href="private.html" target="_blank" style="color: #337ab7;"> 《私隐条款》</a></p>
+                            </li>
+
+                            <li class="rentn" style="padding-top: 25px;"><button  id="UserRegister">注册</button></li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--这是内容 end---->
+    <!--这是脚部 start-->
+    <footer class="rieifote">
+        <div class="contner">
+            <div class="fo1" style="width: 125px;"><img src="images/phonereg.png" style="width: 20px;margin-right: 5px;" />400-0521-131</div>
+            <div class="fo2">
+                <ul>
+                    <li><a href="#">服务条款</a> |</li>
+                    <li><a href="#">隐私政策</a> |</li>
+                    <li><a href="#">网站地图</a></li>
+                    <li class="lili">©2018 <a href="http://www.decerp.cn">www.decerp.cn</a> All rights reserved <a href="http://www.miitbeian.gov.cn/">粤ICP备13009346</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </footer>
+    <!--这是脚部 END---->
+
+    <script type="text/javascript">
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?9561a3e8eafa0027f9264fc14d2138f3";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+            //自动推送
+            var bp = document.createElement('script');
+            var curProtocol = window.location.protocol.split(':')[0];
+            if (curProtocol === 'https') {
+                bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+            }
+            else {
+                bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+            }
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(bp, s);
+        })();
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,716 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script type="4ccd168358962830495186f0-text/javascript">
+            if (window.location.toString().indexOf('pref=padindex') != -1) {} else {
+    		        if (/AppleWebKit.*Mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))) {
+    			        if (window.location.href.indexOf("?mobile") < 0) {
+    				        try {
+    					        if (/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+    						        window.location.href = "http://m.decerp.cn/";
+    					        }
+    				        } catch (e) {}
+    			        }
+    		        }
+            }
+        </script>
+<meta charset="utf-8" />
+<meta name="360-site-verification" content="1ed78afe25e3625a61f10ea21b441480" />
+<meta name="keywords" content="会员管理系统操作流程，使用流程">
+<meta name="description" content="会员管理系统的使用流程说明，快速了解德客会员管理系统软件的使用流程">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+<link rel="stylesheet" type="text/css" href="/Content/resource/css/swiper-3.4.0.min.css" />
+<link rel="stylesheet" type="text/css" href="/Content/resource/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/Content/resource/css/index.css" />
+<link rel="stylesheet" type="text/css" href="/trader/css/share.css" />
+<link rel="stylesheet" type="text/css" href="/trader/css/trader.css" />
+<link rel="stylesheet" type="text/css" href="/productstyle/css/product.css" />
+<link rel="stylesheet" type="text/css" href="/productstyle/css/news.css" />
+<link href="/Content/resource/changeIconFont/iconfont.css" rel="stylesheet" />
+<link href="/trader/changsvg/iconfontpro.css" rel="stylesheet" />
+<link rel="icon" type="image/png" href="/img/title/title.png" />
+<title>德客会员管理系统软件使用流程-帮助中心-德客软件官网</title>
+<script src="/Content/resource/js/jquery.min.js" type="4ccd168358962830495186f0-text/javascript" charset="utf-8"></script>
+<style>
+            .container .newscontentlist h1 {
+                font-size: 32px !important;
+                text-align: center !important;
+                margin-top: 20px !important;
+                margin-bottom: 10px !important;
+                line-height: 80px !important;
+                font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", FontAwesome, sans-serif !important;
+            }
+            .container .newscontentlist{
+                font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", FontAwesome, sans-serif !important;
+            }
+            .container .newscontentlist p {
+                line-height: 30px !important;
+                font-size: 16px !important;
+                text-indent: 2em !important;
+                position:relative;
+                color: #666 !important;
+                font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", FontAwesome, sans-serif !important;
+            }
+            .container .newscontentlist p span {
+                line-height: 30px !important;
+                font-size: 18px !important;
+                font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", FontAwesome, sans-serif !important;
+            }
+            .container .newscontentlist p a span{
+                color: #31C47B !important;
+            }
+            .container .newscontentlist p img{
+                width: 100% !important;
+                display: block;
+                margin:auto;
+            }
+            .container .newscontentlist img{
+                margin-top: 20px !important;
+                font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", FontAwesome, sans-serif !important;
+            }
+        </style>
+</head>
+<body>
+
+<div class="container-fluid">
+<header class="header">
+<div class="header_nav">
+<h1 style="margin: 0;">
+<a href="http://www.decerp.cn" class="logo">
+<img src="/Content/resource/img/home.png" alt="德客会员管理收银系统软件" title="德客会员管理收银系统软件" class="img-responsive logo_img" />
+</a>
+</h1>
+<ul>
+<li class="nav_active active"><a href="http://www.decerp.cn/">首页<div class="navbottom martbotom2" style="width: 35px;"></div></a></li>
+<li class="nav_active"><a href="javascript:void(0);">产品服务<div class="navbottom martbotom2" style="width: 60px;"></div></a></li>
+<li class="nav_active"><a href="/software/download.html">软件下载<div class="navbottom p_a martbotom2" style="width: 60px;"></div></a></li>
+<li class="nav_active"><a href="javascript:void(0);">解决方案<div class="navbottom martbotom2" style="width: 60px;"></div></a></li>
+<li class="nav_active"><a href="/cooperation/agents.html">代理加盟<div class="navbottom martbotom2" style="width: 60px;"></div></a></li>
+<li class="nav_active"><a href="/help/procedure.html">帮助中心<div class="navbottom martbotom2" style="width: 60px;"></div></a></li>
+<li class="nav_active"><a href="/aboutus/contactus.html">关于德客<div class="navbottom martbotom2" style="width: 60px;"></div></a></li>
+</ul>
+<div class="btn_a">
+<div class="btn_div"><a href="http://decerp.cc/login.html" target="_blank" rel="nofollow" class="btn_1" style="background: #fff;color: #fff;border-color: #30c17c;color:#30c17b">登录<i></i></a></div>
+<div class="btn_div"><a href="http://decerp.cc/register.html" target="_blank" rel="nofollow" class="btn_1 btn_2" style="background: #30c17b;color: #fff;border-color: #30c17c;color:#fff">注册<i></i></a></div>
+</div>
+</div>
+</header>
+<div class="sub-nav-bg" data-id="1">
+<div class="active_box"></div>
+</div>
+<div class="row sub-nav-bg" data-id="2">
+<div class="main">
+<div class="col-xs-6 mp0 border-right">
+<p class="nav_title">德客产品</p>
+<ul class="list_nav_new">
+<li>
+<a href="/software/collectmoney.html">
+<div class="imgtitlebox imgtitlebox1">
+<img src="/trader/chang img/de.png" />
+</div>
+<div class="nav_title_text">
+<p>德客收银</p>
+</div>
+</a>
+</li>
+<li>
+<a href="/software/Shop.html">
+<div class="imgtitlebox imgtitlebox2">
+<img src="/trader/chang img/car.png" />
+</div>
+<div class="nav_title_text">
+<p>德客商城</p>
+ </div>
+</a>
+</li>
+<li>
+<a href="/software/membermanagement.html">
+<div class="imgtitlebox imgtitlebox3">
+<img src="/trader/chang img/per.png" />
+</div>
+<div class="nav_title_text">
+<p>会员系统</p>
+</div>
+</a>
+</li>
+<li>
+<a href="/software/app.html">
+<div class="imgtitlebox imgtitlebox4">
+<img src="/trader/chang img/pho.png" />
+</div>
+<div class="nav_title_text">
+<p>德客APP</p>
+</div>
+</a>
+</li>
+<li>
+<a href="/software/NewRetail.html">
+<div class="imgtitlebox imgtitlebox5">
+<img src="/trader/chang img/shop.png" />
+</div>
+<div class="nav_title_text">
+<p>德客零售</p>
+</div>
+</a>
+</li>
+<li>
+<a href="/software/accouterments.html">
+<div class="imgtitlebox imgtitlebox6">
+<img src="/trader/chang img/index-clotes.png" />
+</div>
+<div class="nav_title_text">
+<p>德客服装</p>
+</div>
+</a>
+</li>
+<li>
+<a href="/software/foodCuisine.html">
+<div class="imgtitlebox imgtitlebox7">
+<img src="/trader/chang img/food.png" />
+</div>
+<div class="nav_title_text">
+<p>德客餐饮</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div class="row col-xs-6 mp0">
+<div class="main new_main_1">
+<p class="nav_title1 col-xs-12">智能硬件</p>
+<ul class="row hare_tab" style="padding-left:70px;">
+<li class="col-xs-4">
+<a href="/device/cashiersumit1.html" class="hare_active">
+<img src="/trader/chang img/icon-T1_24.png" />
+<span>收银机</span>
+</a>
+</li>
+<li class="col-xs-4">
+<a href="/device/possumipos.html">
+<img src="/trader/chang img/p1_18.png" /><span>智能POS机</span>
+</a>
+</li>
+<li class="col-xs-4">
+<a href="/device/rwequipment.html">
+<img src="/trader/chang img/play (2).png" /><span>打印设备</span>
+</a>
+</li>
+<li class="col-xs-4">
+<a href="/device/scancode.html">
+<img src="/trader/chang img/saonobackground.png" />
+<span>扫码设备</span>
+</a>
+</li>
+<li class="col-xs-4">
+<a href="/device/printer.html">
+<img src="/trader/chang img/red_conobackground.png" />
+<span>读写设备</span>
+</a>
+</li>
+<li class="col-xs-4">
+<a href="/device/membercard.html">
+<img src="/trader/chang img/readnobackground.png" style="width:35px" /><span>会员卡</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="active_box"></div>
+</div>
+<div class="sub-nav-bg" data-id="3">
+<div class="active_box"></div>
+</div>
+<div class="sub-nav-bg" data-id="4">
+<div class="main">
+<div class="row">
+<div class="col-xs-12">
+<div class="" style="padding: 0;">
+<ul class="border-right list_nav">
+<li class="col-xs-3">
+<a href="/solution/restaurant.html">
+<i class="pro_shou pro_infonticon icon-canyin"></i>
+<div class="solution_title">
+<p>餐饮美食</p>
+<p>线上线下，渠道精细化管理</p>
+</div>
+</a>
+</li>
+<li class="col-xs-3">
+<a href="/software/accouterments.html">
+<i class="pro_shou pro_infonticon icon-yaopinlingshouqiye"></i>
+<div class="solution_title">
+<p>服装鞋帽</p>
+<p>门店智慧经营，提升经营效率</p>
+</div>
+</a>
+</li>
+<li class="col-xs-3">
+<a href="javascript:void(0);">
+<i class="pro_shou pro_infonticon icon-shuma"></i>
+<div class="solution_title">
+<p>3C数码</p>
+<p>全新产业支持3C数码产业升级</p>
+</div>
+</a>
+</li>
+<li class="col-xs-3">
+<a href="/solution/cosmetology.html">
+<i class="pro_shou pro_infonticon icon-meirong-heicopy"></i>
+<div class="solution_title">
+<p>美容美发</p>
+<p>全程掌控，打通消费壁垒</p>
+</div>
+</a>
+</li>
+<li class="col-xs-3">
+<a href="/solution/supermarket.html">
+<i class="pro_shou pro_infonticon icon-chaoshi"></i>
+<div class="solution_title">
+<p>商超零售</p>
+ <p>构建智慧小店，全面提升产业升级</p>
+</div>
+</a>
+</li>
+<li class="col-xs-3">
+<a href="/solution/car.html">
+<i class="pro_shou pro_infonticon icon-qichemeirong"></i>
+<div class="solution_title">
+<p>汽车美容</p>
+<p>业务、财务、管理一体化</p>
+</div>
+</a>
+</li>
+<li class="col-xs-3">
+<a href="/solution/fruits.html">
+<i class="pro_shou pro_infonticon icon-shuiguo"></i>
+<div class="solution_title">
+<p>生鲜水果</p>
+<p>“鲜”行一步，一站式管理</p>
+</div>
+</a>
+</li>
+<li class="col-xs-3">
+<a href="/solution/amusementplace.html">
+<i class="pro_shou pro_infonticon icon-weibiaoti--"></i>
+<div class="solution_title">
+<p>游乐场所</p>
+<p>整合资源，打造O2O闭环</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="active_box"></div>
+</div>
+<div class="sub-nav-bg" data-id="5">
+<div class="active_box"></div>
+</div>
+<div class="sub-nav-bg" data-id="6"><div class="active_box"></div></div>
+</div>
+
+<div class="container-fluid">
+<div class="center">
+<script src="/productstyle/js/jquery.min.js" type="4ccd168358962830495186f0-text/javascript" charset="utf-8"></script>
+<link href="/productstyle/css/basehelp.css" rel="stylesheet" />
+<style>
+    .caterayList{
+        overflow: hidden;
+    }
+    .caterayList li{
+        float:left;
+        font-size: 16px;
+        padding-right: 20px;
+        font-weight: bold;
+    }
+    .caterayList li a{
+        color:#666;
+        display:block;
+    }
+    .caterayList li:hover a{
+        color:#31C17B;
+    }
+    .caterayList li.active a {
+        color:#31C17B;
+    }
+    .new-conter{
+        max-width: 1100px;
+        background-color: #f8f8f8;
+        padding: 25px 20px;
+    }
+</style>
+<div class="procedure_sshouying_box">
+<div class="input-field-txt">
+<input type="text" class="input-field-p" placeholder="请你输入你要查找的问题">
+<span><img src="/productstyle/imags/found-icom.png" id="Find_question" /></span>
+</div>
+<ul class="procedure_slist_nav">
+<li>
+<img src="/productstyle/imags/all_list_nav.png" />
+<p style="color: #31C17B">使用流程</p>
+<img src="/productstyle/imags/forword.png" style="width:18px;height:15px" />
+</li>
+<li>
+<a href="/help/manual.html">
+<img src="/productstyle/imags/1li.png" />
+<p>使用手册</p>
+</a>
+</li>
+<li>
+<a href="/help/tv.html">
+<img src="/productstyle/imags/2li.png" />
+<p>视频中心</p>
+</a>
+</li>
+<li>
+<a href="/help/hardware.html">
+<img src="/productstyle/imags/3li.png" />
+<p>硬件连接</p>
+</a>
+</li>
+<li>
+<a href="/help/questions.html">
+<img src="/productstyle/imags/4li.png" />
+<p>常见问题</p>
+</a>
+</li>
+<li>
+<a href="/help/update.html">
+<img src="/productstyle/imags/5li.png" />
+<p>版本更新</p>
+</a>
+</li>
+</ul>
+</div>
+<div class="new-conter">
+<div class="caterayList">
+<ul>
+<li class="active" data-name="全部">
+<a href="/help/procedure.html?page=1&type="><span>全部</span></a>
+</li>
+<li class="" data-name="会员管理">
+<a href="/help/procedure.html?page=1&type=会员管理"><span>会员管理</span></a>
+</li>
+<li class="" data-name="商品管理">
+<a href="/help/procedure.html?page=1&type=商品管理"><span>商品管理</span></a>
+</li>
+<li class="" data-name="库存管理">
+<a href="/help/procedure.html?page=1&type=库存管理"><span>库存管理</span></a>
+</li>
+<li class="" data-name="日常支出">
+<a href="/help/procedure.html?page=1&type=日常支出"><span>日常支出</span></a>
+</li>
+<li class="" data-name="货流管理">
+<a href="/help/procedure.html?page=1&type=货流管理"><span>货流管理</span></a>
+</li>
+<li class="" data-name="智能分析">
+<a href="/help/procedure.html?page=1&type=智能分析"><span>智能分析</span></a>
+</li>
+<li class="" data-name="营销平台">
+<a href="/help/procedure.html?page=1&type=营销平台"><span>营销平台</span></a>
+</li>
+<li class="" data-name="前台收银">
+<a href="/help/procedure.html?page=1&type=前台收银"><span>前台收银</span></a>
+</li>
+<li class="" data-name="系统管理">
+<a href="/help/procedure.html?page=1&type=系统管理"><span>系统管理</span></a>
+</li>
+<li class="" data-name="员工管理">
+<a href="/help/procedure.html?page=1&type=员工管理"><span>员工管理</span></a>
+</li>
+<li class="" data-name="硬件相关问题">
+<a href="/help/procedure.html?page=1&type=硬件相关问题"><span>硬件相关问题</span></a>
+</li>
+</ul>
+</div>
+<div class="aboutus-news-list">
+<ul id="procedureList">
+<li>
+<div class="col-lg-12col-sm-12 news-box2">
+<a href="/tutorial/305eb5a0-c.html" class="title-a"><strong>如何新增会员？</strong> </a>
+<p class="middle-content">一个成功的店铺，离不开会员的，会员的消费、维护直接影响着一个店铺的营业额，那要怎么新增会员呢？</p>
+<div class="news-detailed-time">
+<a href="/tutorial/305eb5a0-c.html" class="xiangxi-conter">查看详情>></a>
+<span class="new-fabu-time">发布时间：2018/7/11 17:25:08</span>
+</div>
+</div>
+ </li>
+<li>
+<div class="col-lg-12col-sm-12 news-box2">
+<a href="/tutorial/ccf24934-e.html" class="title-a"><strong>会员等级在哪里设置？</strong> </a>
+<p class="middle-content">为了更好的维护会员，很多商家都想让不同等级的会员享受不同的折扣，商家可以根据会员的等级给予不一样的待遇，这个对会员营销有很大作用的，德客软件可以让商家设置会员等级。</p>
+<div class="news-detailed-time">
+<a href="/tutorial/ccf24934-e.html" class="xiangxi-conter">查看详情>></a>
+<span class="new-fabu-time">发布时间：2018/7/11 17:24:06</span>
+</div>
+</div>
+</li>
+<li>
+<div class="col-lg-12col-sm-12 news-box2">
+<a href="/tutorial/40d52bd4-3.html" class="title-a"><strong>如何给会员充值？</strong> </a>
+<p class="middle-content">会员充值充次，是便于会员消费，对于商家来说，也是为了可以积累资金，让会员进行多次消费，百利无一害；那么德客软件如何给会员充值充次呢？</p>
+<div class="news-detailed-time">
+<a href="/tutorial/40d52bd4-3.html" class="xiangxi-conter">查看详情>></a>
+<span class="new-fabu-time">发布时间：2018/7/11 17:22:51</span>
+</div>
+</div>
+</li>
+<li>
+<div class="col-lg-12col-sm-12 news-box2">
+<a href="/tutorial/33d32fed-e.html" class="title-a"><strong>如何新增商品？</strong> </a>
+<p class="middle-content">商品是店铺的基本要素，没商品没店铺，那么通过德客软件怎么新增商品、要填写什么商品信息呢？</p>
+<div class="news-detailed-time">
+<a href="/tutorial/33d32fed-e.html" class="xiangxi-conter">查看详情>></a>
+<span class="new-fabu-time">发布时间：2018/7/11 17:21:36</span>
+</div>
+</div>
+</li>
+<li>
+<div class="col-lg-12col-sm-12 news-box2">
+<a href="/tutorial/8a87225e-1.html" class="title-a"><strong>如何新增商品分类？</strong> </a>
+<p class="middle-content">商家之所以选择软件，节省人力物力是一个很重要的因素，那么商品分类，可以帮商家轻松分类，在选择商品的时候，省下不少时间。</p>
+<div class="news-detailed-time">
+<a href="/tutorial/8a87225e-1.html" class="xiangxi-conter">查看详情>></a>
+<span class="new-fabu-time">发布时间：2018/7/11 17:20:21</span>
+</div>
+</div>
+</li>
+</ul>
+<div id="pagebar" class="paginator"><span class="prev">&lt; 前一页</span><span class="thispage">1</span><a href="?page=2">2</a><a href="?page=3">3</a><a href="?page=4">4</a><a href="?page=5">5</a><span class="break">...</span><a href="?page=85">85</a><a href="?page=86">86</a><span class="next"><a href="?page=2">下一页</a> &gt;</span></div>
+</div>
+</div>
+<script type="4ccd168358962830495186f0-text/javascript">
+    $('.navbottom').eq(5).addClass('displayblock');
+    $("#Find_question").click(function () {
+        var sv_title = $(".input-field-p").val();
+        window.location.href = "/help/searchresult.html?sv_title=" + sv_title;
+    });
+</script>
+<script type="4ccd168358962830495186f0-text/javascript">
+    var h = window.location.search.toString();//获取地址栏中的地址
+    var hre = /\d{1}/;
+    var f = h.match(hre);
+    var pre = Number(f) - 1;
+    var nex = Number(f) + 1;
+    if (pre <= 1)
+    {
+        pre = 1;
+    }
+    var c = window.location.pathname + '?pageIndex=' + pre + '&pagesize=5';
+    var b = window.location.pathname + '?pageIndex=' + nex + '&pagesize=5';
+    //var am_prev = document.getElementById('am_prev');
+    //am_prev.href = c;
+    //var am_next = document.getElementById("am_next");
+    //am_next.href = b;
+</script>
+<script language="javascript" type="4ccd168358962830495186f0-text/javascript">
+    function QueryString(item){
+        var sValue=location.search.match(new RegExp("[\?\&]"+item+"=([^\&]*)(\&?)","i"))
+        return sValue?sValue[1]:sValue
+    }
+    var count = 41;//总页数
+    var perpage = 5;
+    var currentpage = QueryString("page");
+    if (currentpage==null){
+        currentpage = 1;
+    }else{
+        currentpage = parseInt(currentpage);
+    }
+    var pagecount = Math.ceil(count/perpage);
+    var pagestr = "";
+    var breakpage = 5;
+    var currentposition = 4;
+    var breakspace = 2;
+    var maxspace = 4;
+    var prevnum = currentpage-currentposition;
+    var nextnum = currentpage+currentposition;
+    if(prevnum<1) prevnum = 1;
+    if(nextnum>pagecount) nextnum = pagecount;
+    pagestr += (currentpage==1)?'<span class="prev">< 前一页</span>':'<span class="prev">< <a href="?page='+(currentpage-1)+'">前一页</a></span>';
+    if(prevnum-breakspace>maxspace){
+        for(i=1;i<=breakspace;i++)
+            pagestr += '<a href="?page='+i+'&type=">'+i+'</a>';
+        pagestr += '<span class="break">...</span>';
+        for(i=pagecount-breakpage+1;i<prevnum;i++)
+            pagestr += '<a href="?page='+i+'&type=">'+i+'</a>';
+    }else{
+        for(i=1;i<prevnum;i++)
+            pagestr += '<a href="?page='+i+'&type=">'+i+'</a>';
+    }
+    for(i=prevnum;i<=nextnum;i++){
+        pagestr += (currentpage==i)?'<span class="thispage">'+i+'</span>':'<a href="?page='+i+'&type=">'+i+'</a>';
+    }
+    if(pagecount-breakspace-nextnum+1>maxspace){
+        for(i=nextnum+1;i<=breakpage;i++)
+            pagestr += '<a href="?page='+i+'&type=">'+i+'</a>';
+        pagestr += '<span class="break">...</span>';
+        for(i=pagecount-breakspace+1;i<=pagecount;i++)
+            pagestr += '<a href="?page='+i+'&type=">'+i+'</a>';
+    }else{
+        for(i=nextnum+1;i<=pagecount;i++)
+            pagestr += '<a href="?page='+i+'&type=">'+i+'</a>';
+    }
+    pagestr += (currentpage==pagecount)?'<span class="next">下一页 ></span>':'<span class="next"><a href="?page='+(currentpage+1)+'&type=">下一页</a> ></span>';
+    document.getElementById("pagebar").innerHTML = pagestr;
+</script>
+</div>
+</div>
+
+<div class="container-fluid">
+<footer class="footer">
+<div class="box row">
+<ul class="col-xs-2 more_list">
+<li><p>解决方案</p></li>
+<li><a href="/solution/restaurant.html">餐饮美食会员管理系统方案</a></li>
+<li><a href="/solution/cosmetology.html">美容美发会员管理系统方案</a></li>
+<li><a href="accouterments.html">服装鞋帽会员管理系统方案</a></li>
+<li><a href="/solution/supermarket.html">商超零售会员管理系统方案</a></li>
+<li><a href="javascript:viod(0);">3C数码会员管理系统方案</a></li>
+<li><a href="/solution/car.html">汽车美容会员管理系统方案</a></li>
+<li><a href="/solution/fruits.html">生鲜水果会员管理系统方案</a></li>
+</ul>
+<ul class="col-xs-3 more_list" style="padding-left: 90px;">
+<li><p>德客产品</p></li>
+<li class="list_2a"><a href="/software/collectmoney.html">德客收银系统</a></li>
+<li class="list_2a"><a href="/software/Shop.html">德客商城系统</a></li>
+<li class="list_2a"><a href="/software/membermanagement.html">O2O会员系统</a></li>
+<li class="list_2a"><a href="/software/foodCuisine.html">德客餐饮系统</a></li>
+<li class="list_2a"><a href="/software/accouterments.html">德客服装系统</a></li>
+<li class="list_2a"><a href="/software/NewRetail.html">德客零售系统</a></li>
+<li class="list_2a"><a href="/software/app.html">德客APP</a></li>
+</ul>
+<ul class="col-xs-2 more_list">
+<li><p>帮助中心</p></li>
+<li><a href="/help/procedure.html">使用流程</a></li>
+<li><a href="/help/manual.html">使用手册</a></li>
+<li><a href="/help/tv.html">视频教程</a></li>
+<li><a href="/help/hardware.html">硬件连接</a></li>
+<li><a href="/help/questions.html">常见问题</a></li>
+<li><a href="/help/update.html">版本更新</a></li>
+</ul>
+<ul class="col-xs-2 more_list">
+<li><p>关于德客</p></li>
+<li><a href="/aboutus/contactus.html">德客简介</a></li>
+<li><a href="/cooperation/agents.html">代理加盟</a></li>
+<li><a href="http://pt.decerp.cn/" rel="nofollow" target="_blank">代理登录</a></li>
+<li><a href="/software/download.html">软件下载</a></li>
+</ul>
+<ul class="col-xs-3 more_list">
+<li style="height: 155px; color: #81878c;">
+<div class="imgbox"><img src="/Content/resource/img/ecode.jpg" class="img-responsive" />关注德客微信公众号</div>
+</li>
+<li style="height: 45px;">
+<i class="icon iconfont">&#xe62b;<span style="font-family: simhei;">400-0521-131</span></i>
+</li>
+<li class="text-right"><span class="small_shop">再小的店，也需要管理</span></li>
+</ul>
+</div>
+<div class="friend_nav">
+</div>
+<div class="explain">
+<p>德客会员管理系统软件官网<a href="http://www.decerp.cn">www.decerp.cn</a> All rights reserves <a style="color:#8c93a1;font-size: 13px;" href="http://www.miitbeian.gov.cn" rel="nofollow"> 粤ICP备13009346号</a></p>
+<p>
+<span>地址：广州增城区新新中路永宁誉山国际香堤四街3号</span>
+</p>
+</div>
+</footer>
+</div>
+<div class="boradside">
+<ul class="right_box">
+<li class="right_small_box" id="zixun">
+<img src="/Content/resource/img/weixin.png" class="img-responsive center-block" />
+</li>
+<li class="right_small_box" id="dianhua">
+<img src="/Content/resource/img/phone_small_box.png" class="img-responsive center-block" />
+</li>
+<li class="right_small_box" id="code">
+<img src="/Content/resource/img/code_small_box.png" class="img-responsive center-block" />
+</li>
+<li class="right_small_box" id="code" style="background:#30c17b;color:#fff;">
+<p style="padding-left:5px; padding-top:5px;">技&nbsp;&nbsp;&nbsp;术</p>
+<p style="padding-left:5px; padding-top:0px;">支&nbsp;&nbsp;&nbsp;持</p>
+</li>
+<li class="right_small_box" id="zhiding" style="border: none;background:rgba(0, 0, 0, 0.3)">
+<img src="/Content/resource/img/zhiding.png" class="img-responsive center-block" />
+</li>
+</ul>
+<div class="left_box">
+<div class="left_small_box">
+<ul>
+<li style="font-size: 14px;">请选择以下类别进行咨询</li>
+<li>
+<a href="tencent://message/?uin=3450167856&amp;Site=客服&amp;Menu=yes" class="small_btn_a">代理加盟</a>
+</li>
+<li>
+<a href="tencent://message/?uin=3459313137&amp;Site=客服&amp;Menu=yes" class="small_btn_a">商户购买</a>
+</li>
+<li>
+<a href="tencent://message/?uin=961917159&amp;Site=客服&amp;Menu=yes" class="small_btn_a">售后咨询</a>
+</li>
+</ul>
+<div class="active_block">&nbsp;</div>
+</div>
+<div class="left_small_box">
+<ul>
+<li class="list_box_small_2" style="font-size: 15px;">咨询热线</li>
+<li class="list_box_small_2" style="font-size: 18px;color: #31C47B;"><img src="/Content/resource/img/dianhua.png" />400 0521 131</li>
+<li style="height: 60px;">
+<p>电话咨询服务时间 </p>
+<p>周一至周日 9:00至22:00</p>
+</li>
+</ul>
+<div class="active_block">&nbsp;</div>
+</div>
+<div class="left_small_box">
+<ul class="code_img" style="margin: auto;">
+<li style="height: 120px;">
+<img src="/Content/resource/img/code_img1.png" class="img-responsive center-block" />
+<p style="font-size: 14px;">扫描咨询</p>
+</li>
+<li style="height: 120px;">
+<img src="/Content/resource/img/conde_img2.png" class="img-responsive center-block" />
+<p>关注微信公众号</p>
+</li>
+</ul>
+<div class="active_block">&nbsp;</div>
+</div>
+<div class="left_small_box">
+<ul>
+<li style="font-size: 14px;">请选择以下类别进行咨询</li>
+<li>
+<a href="tencent://message/?uin=2155919045&amp;Site=客服&amp;Menu=yes" class="small_btn_a" style="width:172px;">开通支付，支付对账问题</a>
+</li>
+<li>
+<a href="tencent://message/?uin=2189019178&amp;Site=客服&amp;Menu=yes" class="small_btn_a">开通餐饮，硬件绑定</a>
+</li>
+<li>
+<a href="tencent://message/?uin=961917159&amp;Site=客服&amp;Menu=yes" class="small_btn_a">其它问题，请联系</a>
+</li>
+</ul>
+<div class="active_block">&nbsp;</div>
+</div>
+</div>
+</div>
+<script src="/Content/resource/js/swiper-3.4.0.jquery.min.js" type="4ccd168358962830495186f0-text/javascript" charset="utf-8"></script>
+<script src="/Content/resource/js/bootstrap.min.js" type="4ccd168358962830495186f0-text/javascript" charset="utf-8"></script>
+<script src="/Content/resource/js/javascriptindex.js" type="4ccd168358962830495186f0-text/javascript" charset="utf-8"></script>
+<script type="4ccd168358962830495186f0-text/javascript">
+        (function(){
+            var bp = document.createElement('script');
+            var curProtocol = window.location.protocol.split(':')[0];
+            if (curProtocol === 'https') {
+                bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+            }
+            else {
+                bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+            }
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(bp, s);
+        })();
+   </script>
+<script src="https://edge.yunjiasu.com/cdn-cgi/scripts/2448a7bd/cloudflare-static/rocket-loader.min.js" data-cf-nonce="4ccd168358962830495186f0-" defer=""></script></body>
+</html>

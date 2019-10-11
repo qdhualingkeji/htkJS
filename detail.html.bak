@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script type="4a3f5a4569e32342c96a4e14-text/javascript">
+	/*
+	if (window.location.toString().indexOf('pref=padindex') != -1) {} else {
+			if (/AppleWebKit.*Mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))) {
+				if (window.location.href.indexOf("?mobile") < 0) {
+					try {
+						if (/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+							window.location.href = "http://m.decerp.cn/";
+						}
+					} catch (e) {}
+				}
+			}
+	}
+	*/
+</script>
+<meta charset="utf-8" />
+<meta name="360-site-verification" content="1ed78afe25e3625a61f10ea21b441480" />
+<meta name="keywords" content="餐饮加盟，餐饮软件加盟，餐饮软件代理，餐饮管理软件，餐饮APP，外卖APP，外卖平台加盟，扫码点餐，扫码点菜，智慧餐饮软件，无抽成外卖平台，点菜软件，餐饮业管理软件">
+<meta name="description" content="回头客餐饮综合管理系统，包含无平台抽成外卖模块，自助扫码点餐，餐饮会员管理，欢迎代理加盟回头客餐饮营销管理软件">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+<link rel="stylesheet" type="text/css" href="Content/resource/css/swiper-3.4.0.min.css" />
+<link rel="stylesheet" type="text/css" href="Content/resource/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="Content/resource/css/index.css" />
+<link rel="stylesheet" type="text/css" href="trader/css/share.css" />
+<link rel="stylesheet" type="text/css" href="trader/css/trader.css" />
+<link rel="stylesheet" type="text/css" href="productstyle/css/product.css" />
+<link rel="stylesheet" type="text/css" href="productstyle/css/news.css" />
+<link href="Content/resource/changeIconFont/iconfont.css" rel="stylesheet" />
+<link href="trader/changsvg/iconfontpro.css" rel="stylesheet" />
+<link rel="icon" type="image/png" href="img/title/title.png" />
+<title>如何新增会员？-使用教程-回头客软件</title>
+<script src="Content/resource/js/jquery.min.js" type="4a3f5a4569e32342c96a4e14-text/javascript" charset="utf-8"></script>
+<script type="4a3f5a4569e32342c96a4e14-text/javascript">
+jQuery(document).ready(function(){
+	var contentImg=$("#contentImg");
+	contentImg.empty();
+	var id=getQueryString("id");
+	if(id==1){
+		contentImg.append("<h1>如何注册会员？</h1>");
+		contentImg.append("<p>首先扫描回头客二维码下载软件，下载后进入软件首页，点击“我的”界面，点击登录后在右上角找到“注册”，点击进入注册界面，按照提示输入资料提交即可。</p>");
+		contentImg.append("<p><img src=\"Scripts/kindeditor-4.0.5/attached/image/20180711/20180711172443_4635.jpg\" title=\"如何注册会员\" alt=\"如何注册会员\" />");
+		contentImg.append("</p>");
+		contentImg.append("<p style=\"text-align:center;\"><span style=\"color:#009900;\">（点击放大）</span></p>");
+		contentImg.append("");
+		contentImg.append("");
+	}
+	else if(id==2){
+		contentImg.append("<h1>如何收藏商家（成为商家会员）？</h1>");
+		contentImg.append("<p>首先登录自己的账号，在推荐喜欢或者美食找到喜欢的商家，点击商家后首先进入的即时会员尊享平台，点击中间加入会员即可。</p>");
+		contentImg.append("<p><img src=\"Scripts/kindeditor-4.0.5/attached/image/20180711/20180711172402_0314.jpg\" title=\"如何收藏商家\" alt=\"如何收藏商家\" />");
+		contentImg.append("</p>");
+		contentImg.append("<p style=\"text-align:center;\"><span style=\"color:#009900;\">（点击放大）</span></p>");
+	}
+	else if(id==3){
+		contentImg.append("<h1>外卖如何下单？</h1>");
+		contentImg.append("<p>在回头客下单必须登录账号才可使用，登录后找到喜欢的商家收藏，然后退出刷新在进入即可直接选择菜品然后去结算即可。</p>");
+	}
+	else if(id==4){
+		contentImg.append("<h1>如何增加收货地址？</h1>");
+		contentImg.append("<p>添加收货地址有两个途径：</p>");
+		contentImg.append("<p>①选择完菜品直接去结算，在确认订单页面顶部会提示增加收货地址；</p>");
+		contentImg.append("<p>②在“我的”界面，点击收货地址，进入在底部选择新增地址即可。</p>");
+		contentImg.append("<p><img src=\"Scripts/kindeditor-4.0.5/attached/image/20180711/20180711172116_8097.jpg\" title=\"如何增加收货地址\" alt=\"如何增加收货地址\" />");
+		contentImg.append("</p>");
+		contentImg.append("<p style=\"text-align:center;\"><span style=\"color:#009900;\">（点击放大）</span></p>");
+	}
+	else if(id==5){
+		contentImg.append("<h1>如何预定座位？</h1>");
+		contentImg.append("<p>进入商家详情界面，在商家店铺头像下方有会员尊享平台，点击进去会员尊享平台，左侧底部即可预定座位，根据要求输入信息即可。（预约记录可在我的界面查看）</p>");
+		contentImg.append("<p><img src=\"Scripts/kindeditor-4.0.5/attached/image/20180711/20180711171926_5989.jpg\" title=\"如何预定座位\" alt=\"如何预定座位\" />");
+		contentImg.append("</p>");
+		contentImg.append("<p style=\"text-align:center;\"><span style=\"color:#009900;\">（点击放大）</span></p>");
+	}
+	else if(id==6){
+		contentImg.append("<h1>如何查询积分？积分兑换优惠券？</h1>");
+		contentImg.append("<p>每个人对应了每个商家的积分，可在会员尊享平台“我的”界面预览和查询积分；积分兑换同样是在此界面，选择积分兑换可根据自己的积分选择优惠券兑换。</p>");
+		contentImg.append("<p><img src=\"Scripts/kindeditor-4.0.5/attached/image/20180711/20180711171126_7863.jpg\" title=\"如何查询积分\" alt=\"如何查询积分\" />");
+		contentImg.append("</p>");
+		contentImg.append("<p style=\"text-align:center;\"><span style=\"color:#009900;\">（点击放大）</span></p>");
+	}
+	else if(id==7){
+		contentImg.append("<h1>外卖和自助点菜如何支付？</h1>");
+		contentImg.append("<p>外卖暂时只支持支付宝支付；自助点菜需要线下支付。</p>");
+	}
+	else if(id==8){
+		contentImg.append("<h1>后台浏览器兼容？系统要求？</h1>");
+		contentImg.append("<p>回头客后台网页暂时和火狐浏览器兼容；系统适用WIN XP、WIN7。</p>");
+	}
+	else if(id==9){
+		contentImg.append("<h1>商家信息完善、修改？</h1>");
+		contentImg.append("<p>商家按照要求提交资料开通账号以后，根据后台网址登陆，在左侧菜单栏最底部选择门店信息—店铺，进入页面修改完善。</p>");
+		contentImg.append("<p><img src=\"Scripts/kindeditor-4.0.5/attached/image/20180711/20180711171010_0275.jpg\" title=\"商家信息完善、修改\" alt=\"商家信息完善、修改\" /></p>");
+		contentImg.append("<p><img src=\"Scripts/kindeditor-4.0.5/attached/image/20180711/20180711170834_5920.jpg\" title=\"商家信息完善、修改\" alt=\"商家信息完善、修改\" /></p>");
+		contentImg.append("<p style=\"text-align:center;\"><span style=\"color:#009900;\">（点击放大）</span></p>");
+	}
+	else if(id==10){
+		contentImg.append("<h1>菜品管理—商品添加和删除？</h1>");
+		contentImg.append("<p>进入后台界面，左侧菜单栏找到商品，进入后可选择外卖、自助点菜的商品添加下架，添加分类和添加单品都需要找到有下家的“添加”，点击选择加分类还是菜品；"+
+							"菜品删减，直接点击右上角批量管理，可选择商品种类下架，后期客户如果想再上线，可直接批量管理—选择上架即可。</p>");
+		contentImg.append("<p><img src=\"Scripts/kindeditor-4.0.5/attached/image/20180711/20180711170542_5295.jpg\" title=\"商家信息完善、修改\" alt=\"商家信息完善、修改\" /></p>");
+		contentImg.append("<p><img src=\"Scripts/kindeditor-4.0.5/attached/image/20180711/20180711170227_0910.jpg\" title=\"商家信息完善、修改\" alt=\"商家信息完善、修改\" /></p>");
+		contentImg.append("<p style=\"text-align:center;\"><span style=\"color:#009900;\">（点击放大）</span></p>");
+	}
+});
+
+function getQueryString(name){
+     var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+     var r = window.location.search.substr(1).match(reg);
+     if(r!=null)return  unescape(r[2]); return null;
+}
+</script>
+<style>
+            .container .newscontentlist h1 {
+                font-size: 32px !important;
+                text-align: center !important;
+                margin-top: 20px !important;
+                margin-bottom: 10px !important;
+                line-height: 80px !important;
+                font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", FontAwesome, sans-serif !important;
+            }
+            .container .newscontentlist{
+                font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", FontAwesome, sans-serif !important;
+            }
+            .container .newscontentlist p {
+                line-height: 30px !important;
+                font-size: 16px !important;
+                text-indent: 2em !important;
+                position:relative;
+                color: #666 !important;
+                font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", FontAwesome, sans-serif !important;
+            }
+            .container .newscontentlist p span {
+                line-height: 30px !important;
+                font-size: 18px !important;
+                font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", FontAwesome, sans-serif !important;
+            }
+            .container .newscontentlist p a span{
+                color: #31C47B !important;
+            }
+            .container .newscontentlist p img{
+                width: 100% !important;
+                display: block;
+                margin:auto;
+            }
+            .container .newscontentlist img{
+                margin-top: 20px !important;
+                font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", FontAwesome, sans-serif !important;
+            }
+        </style>
+</head>
+<body>
+
+<div class="container-fluid">
+<header class="header">
+<div class="header_nav">
+<h1 style="margin: 0;">
+	<a href="http://www.qdhualing.com/" class="logo">
+		<img src="Content/resource/img/logo.png" style="height:61px;margin-top:-10px;margin-left:-300px;">
+	</a>
+	<a href="http://htk.qdhualing.com" class="logo">
+		<img src="Content/resource/img/home.png" alt="回头客软件" title="回头客软件" class="img-responsive logo_img" />
+	</a>
+</h1>
+<ul>
+	<li class="nav_active">
+		<a href="index.html">首页
+			<div class="navbottom martbotom2" style="width: 35px;"></div>
+		</a>
+	</li>
+	<li class="nav_active">
+		<a href="takeout.html">外卖APP
+			<div class="navbottom martbotom2" style="width: 60px;"></div>
+		</a>
+	</li>
+	<li class="nav_active">
+		<a href="order.html">扫码点餐
+			<div class="navbottom p_a martbotom2" style="width: 60px;"></div>
+		</a>
+	</li>
+	<!--
+	<li class="nav_active">
+		<a href="javascript:void(0);">会员尊享平台
+			<div class="navbottom martbotom2" style="width: 60px;"></div>
+		</a>
+	</li>
+	-->
+	<li class="nav_active">
+		<a href="agents.html">代理加盟
+			<div class="navbottom martbotom2" style="width: 60px;"></div>
+		</a>
+	</li>
+	<li class="nav_active active">
+		<a href="helpCenter.html">帮助中心
+			<div class="navbottom martbotom2" style="width: 60px;"></div>
+		</a>
+	</li>
+</ul>
+<!--
+<div class="btn_a">
+	<div class="btn_div">
+		<a href="login.html" target="_blank" rel="nofollow" class="btn_1" style="background: #fff;color: #fff;border-color: #30c17c;color:#30c17b">登录<i></i></a>
+	</div>
+	<div class="btn_div">
+		<a href="register.html" target="_blank" rel="nofollow" class="btn_1 btn_2" style="background: #30c17b;color: #fff;border-color: #30c17c;color:#fff">注册<i></i></a>
+	</div>
+</div>
+-->
+</div>
+</header>
+<div class="sub-nav-bg" data-id="1">
+<div class="active_box"></div>
+</div>
+<div class="sub-nav-bg" data-id="5">
+<div class="active_box"></div>
+</div>
+<div class="sub-nav-bg" data-id="6"><div class="active_box"></div></div>
+</div>
+
+<div class="container-fluid">
+<div class="center">
+<link href="productstyle/layer/theme/default/layer.css" rel="stylesheet" />
+<style>
+    .contentImg img{
+        max-width: 100%;
+        display: block;
+        margin: auto;
+        cursor: pointer;
+    }
+</style>
+<div class="container newscand-conter">
+<ol class="breadcrumb">
+<span>当前位置：</span>
+<li><a href="http://www.decerp.cn/">德客会员管理软件</a></li>
+<li><a href="/help/procedure.html">软件使用教程</a></li>
+<li class="active"><a href="/tutorial/305eb5a0-c.html" class="news-title">会员管理</a></li>
+</ol>
+<div class="newscontentlist" style="float: left;width: 63%;margin:0;">
+<div class="contentImg" id="contentImg">
+</div>
+<div class="bdsharebuttonbox" style="padding-bottom:10px;">
+<a href="#" class="bds_more" data-cmd="more"></a>
+<a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a>
+<a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+<a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a>
+<a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a>
+<a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+</div>
+<script type="4a3f5a4569e32342c96a4e14-text/javascript">
+                window._bd_share_config = {
+                    "common": {
+                        "bdSnsKey": {},
+                        "bdText": "",
+                        "bdMini": "2",
+                        "bdMiniList": false,
+                        "bdPic": "",
+                        "bdStyle": "0",
+                        "bdSize": "16"
+                    },
+                    "share": {},
+                    "selectShare": {
+                        "bdContainerClass": null,
+                        "bdSelectMiniList": ["qzone", "tsina", "tqq", "renren", "weixin"]
+                    }
+                };
+                with(document) 0[(getElementsByTagName('head')[0] || body).appendChild(createElement('script')).src = 'http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=' + ~(-new Date() / 36e5)];
+            </script>
+</div>
+<div class="newscontentlist-right" style="">
+<div class="app-content">
+<img src="Content/resource/img/new-htk.jpg" />
+</div>
+<div class="newslistcontent">
+<div class="news-title">
+<span>最新教程</span>
+</div>
+<ul class="newlist1">
+<li>
+<div class="newtimeout">
+<span>2018/7/11 17:25:08</span>
+</div>
+<div class="neurl">
+<a href="/tutorial/305eb5a0-c.html">如何新增会员？</a>
+</div>
+</li>
+<li>
+<div class="newtimeout">
+<span>2018/7/11 17:24:06</span>
+</div>
+<div class="neurl">
+<a href="/tutorial/ccf24934-e.html">会员等级在哪里设置？</a>
+</div>
+</li>
+<li>
+<div class="newtimeout">
+<span>2018/7/11 17:22:51</span>
+</div>
+<div class="neurl">
+<a href="/tutorial/40d52bd4-3.html">如何给会员充值？</a>
+</div>
+</li>
+<li>
+<div class="newtimeout">
+<span>2018/7/11 17:21:36</span>
+</div>
+<div class="neurl">
+<a href="/tutorial/33d32fed-e.html">如何新增商品？</a>
+</div>
+</li>
+<li>
+<div class="newtimeout">
+<span>2018/7/11 17:20:21</span>
+</div>
+<div class="neurl">
+<a href="/tutorial/8a87225e-1.html">如何新增商品分类？</a>
+ </div>
+</li>
+</ul>
+</div>
+<!--
+<div class="newslistcontent" style="padding-top: 0;">
+	<div class="news-title">
+		<span>行业解决方案</span>
+	</div>
+	<ul class="newlist1">
+		<li>
+		<a href="/solution/restaurant.html">餐饮美食会员管理系统方案</a>
+		</li>
+		<li>
+		<a href="/solution/cosmetology.html">美容美发会员管理系统方案</a>
+		</li>
+		<li>
+		<a href="/software/accouterments.html">服装鞋帽会员管理系统方案</a>
+		</li>
+		<li>
+		<a href="/solution/supermarket.html">商超零售会员管理系统方案</a>
+		</li>
+		<li>
+		<a href="javascript:void(0);">3C数码会员管理系统方案</a>
+		</li>
+		<li>
+		<a href="/solution/car.html">汽车美容会员管理系统方案</a>
+		</li>
+		<li>
+		<a href="/solution/fruits.html">生鲜水果会员管理系统方案</a>
+		</li>
+	</ul>
+</div>
+-->
+</div>
+</div>
+<script src="productstyle/layer/layer.js" type="4a3f5a4569e32342c96a4e14-text/javascript"></script>
+<script type="4a3f5a4569e32342c96a4e14-text/javascript">
+    $(document).unbind("click", "#contentImg img").on("click", "#contentImg img", function () {
+        var thisUrl = $(this).attr("src");
+        if (thisUrl.indexOf(".gif") > 0) {
+            layer.open({
+                type: 2,
+                title: '教程',
+                shadeClose: true,
+                shade: false,
+                maxmin: true, //开启最大化最小化按钮
+                area: ['90%', '90%'],
+                content: $(this).attr("src")
+            });
+        }
+    });
+</script>
+</div>
+</div>
+
+<div class="container-fluid">
+<footer class="footer">
+<div class="box row">
+<ul class="col-xs-2 more_list">
+<li><p>联系方式</p></li>
+<li><a href="/solution/restaurant.html">电话：0532-55588351</a></li>
+<li><a href="/solution/cosmetology.html">传真：0532-55588352</a></li>
+<li><a href="accouterments.html">邮箱：qdhualing@126.com</a></li>
+<li><a href="/solution/supermarket.html">商话1：15712773653</a></li>
+<li><a href="javascript:viod(0);">商话2：15315019919</a></li>
+<li style="width:350px;"><a href="/solution/car.html">地址：山东省黄岛区双珠路288号东方金石大厦807室</a></li>
+</ul>
+<ul class="col-xs-3 more_list" style="width:350px;margin-left:500px;">
+<li style="height: 170px; color: #81878c;">
+<div class="imgbox"><img src="Content/resource/img/ecode.jpg" class="img-responsive" />关注回头客微信公众号</div>
+</li>
+ <li style="width:350px;height: 45px;">
+<i class="icon iconfont" style="width:350px;">加盟热线：<span style="font-family: simhei;">15712773653</span></i>
+</li>
+</ul>
+</div>
+<div class="friend_nav">
+</div>
+<div class="explain">
+</div>
+</footer>
+</div>
+<div class="boradside">
+<ul class="right_box">
+<li class="right_small_box" id="zixun">
+<img src="Content/resource/img/weixin.png" class="img-responsive center-block" />
+</li>
+<li class="right_small_box" id="dianhua">
+<img src="Content/resource/img/phone_small_box.png" class="img-responsive center-block" />
+</li>
+<li class="right_small_box" id="code">
+<img src="Content/resource/img/code_small_box.png" class="img-responsive center-block" />
+</li>
+<li class="right_small_box" id="code" style="background:#30c17b;color:#fff;">
+<p style="padding-left:5px; padding-top:5px;">技&nbsp;&nbsp;&nbsp;术</p>
+<p style="padding-left:5px; padding-top:0px;">支&nbsp;&nbsp;&nbsp;持</p>
+</li>
+<li class="right_small_box" id="zhiding" style="border: none;background:rgba(0, 0, 0, 0.3)">
+<img src="Content/resource/img/zhiding.png" class="img-responsive center-block" />
+</li>
+</ul>
+<div class="left_box">
+<div class="left_small_box">
+<ul>
+	<li style="font-size: 14px;">请选择以下客服进行咨询</li>
+	<li>
+		<a href="tencent://message/?uin=1578569337&amp;Site=客服&amp;Menu=yes" style="width:150px;height:50px;line-height: 50px;margin: auto;color: #31C47B;">客服1：1578569337&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+	</li>
+	<li>
+		<a href="tencent://message/?uin=2624691289&amp;Site=客服&amp;Menu=yes" style="width:150px;height:50px;line-height: 50px;margin: auto;color: #31C47B;">客服2：2624691289&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+	</li>
+	<li>
+		<a href="tencent://message/?uin=656628150&amp;Site=客服&amp;Menu=yes" style="width:150px;height:50px;line-height: 50px;margin: auto;color: #31C47B;">客服3：656628150&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+	</li>
+</ul>
+<div class="active_block">&nbsp;</div>
+</div>
+<div class="left_small_box">
+<ul>
+<li class="list_box_small_2" style="font-size: 15px;">代理加盟咨询热线</li>
+<li class="list_box_small_2" style="font-size: 18px;color: #31C47B;"><img src="Content/resource/img/dianhua.png" />400 0521 131</li>
+<li style="height: 60px;">
+<p>电话咨询服务时间 </p>
+<p>周一至周日 9:00至22:00</p>
+</li>
+</ul>
+<div class="active_block">&nbsp;</div>
+</div>
+<div class="left_small_box">
+<ul class="code_img" style="margin: auto;">
+	<li style="height: 120px;">
+		<img src="Content/resource/img/ecode.jpg" style="width:96px;height:96px;margin-left:75px;" />
+		<p style="margin-left:50px;width:140px;">关注回头客微信公众号</p>
+	</li>
+</ul>
+<div class="active_block">&nbsp;</div>
+</div>
+<div class="left_small_box">
+<ul>
+	<li style="font-size: 14px;height:50px;line-height:50px;text-align:center;">技术支持</li>
+	<li style="font-size: 14px;height:50px;line-height:50px;text-align:center;color:#31c47b;">技术支持热线：0532-55588351</li>
+	<li style="font-size: 14px;height:50px;line-height:50px;text-align:center;color:#31c47b;">售后技术支持：15315019919&nbsp;&nbsp;&nbsp;&nbsp;</li>
+	<li style="font-size: 14px;height:50px;line-height:50px;text-align:center;color:#31c47b;">开发技术支持：18765943028&nbsp;&nbsp;&nbsp;&nbsp;</li>
+</ul>
+<div class="active_block">&nbsp;</div>
+</div>
+</div>
+</div>
+<script src="Content/resource/js/swiper-3.4.0.jquery.min.js" type="4a3f5a4569e32342c96a4e14-text/javascript" charset="utf-8"></script>
+<script src="Content/resource/js/bootstrap.min.js" type="4a3f5a4569e32342c96a4e14-text/javascript" charset="utf-8"></script>
+<script src="Content/resource/js/javascriptindex.js" type="4a3f5a4569e32342c96a4e14-text/javascript" charset="utf-8"></script>
+<script type="4a3f5a4569e32342c96a4e14-text/javascript">
+        (function(){
+            var bp = document.createElement('script');
+            var curProtocol = window.location.protocol.split(':')[0];
+            if (curProtocol === 'https') {
+                bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+            }
+            else {
+                bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+            }
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(bp, s);
+        })();
+		
+		setTimeout(function(){
+			$("#nb_icon_wrap").remove();
+			$(".nb-invite-body").remove();
+			$("#newBridge").remove();
+		}, 1000);
+   </script>
+<script src="https://edge.yunjiasu.com/cdn-cgi/scripts/2448a7bd/cloudflare-static/rocket-loader.min.js" data-cf-nonce="4a3f5a4569e32342c96a4e14-" defer=""></script></body>
+</html>
